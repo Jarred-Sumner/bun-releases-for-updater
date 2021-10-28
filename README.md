@@ -1,1 +1,1 @@
-This is a separate repo temporarily
+This repo is public so that installing & upgrading Bun doesn't need a GitHub login. You can join [Bun's Discord](https://bun.sh/discord) to get access to the repository with the source code (which is MIT-licensed). Bun is still very experimental. If you don't know what Bun is, you'll have to look elsewhere for an explanation :)
